@@ -2,10 +2,10 @@
 
 ## <div align="center"> Self-taught full-stack developer, Mentor, tech & space enthusiastic </div>
 
-- 🔭 I’m currently working on social media webiste
-- 🌱 I’m currently learning Java,Python,JavaScript,etc.
+- 🔭 I’m currently working on Electron.js and Flutter Projects
+- 🌱 I’m currently learning Java,Flutter,JavaScript,React etc.
 - 💬 Ask me about C/C++ and any tech related stuff.
-- :calendar: 2020 Goals : Programming Paradigm-Functional & OOPS , Development-Web & Android
+- :calendar: 2021 Goals : Problem Solving ,Web Dev and Mobile Dev
 - ⚡ Fun fact: run slow when you are running out of time :confused:
 
 <summary>:zap: Github Stats </summary>
