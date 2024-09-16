@@ -7,7 +7,7 @@
 - :calendar: 2022 Goals : Problem Solving ,Excellence in Web Dev 
 - ⚡ Fun fact: run slow when you are running out of time :confused:
 
-<summary>:zap: Github Stats </summary>
+<summary>:zap:<b> Github Stats</b> </summary>
 
 <img align="left" alt="Manish Github Stats" src="https://github-readme-stats.dev-manindepth.vercel.app/api?username=dev-manindepth&show_icons=true&hide_border=true" />
 
